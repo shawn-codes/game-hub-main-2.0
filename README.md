@@ -14,6 +14,6 @@ To get started with GameHub, follow these steps:
 
 ## Screenshot
 
-![](/src/assets/GameHub2.0.png)
+![](/src/assets/Game%20show-case.png)
 
 <!--  -->
